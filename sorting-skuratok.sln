@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.32112.339
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "sorting-skuratok", "sorting-skuratok\sorting-skuratok.vcxproj", "{B2173FBF-BEED-43B2-B910-FE156C45A026}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B2173FBF-BEED-43B2-B910-FE156C45A026}.Debug|x64.ActiveCfg = Debug|x64
+		{B2173FBF-BEED-43B2-B910-FE156C45A026}.Debug|x64.Build.0 = Debug|x64
+		{B2173FBF-BEED-43B2-B910-FE156C45A026}.Debug|x86.ActiveCfg = Debug|Win32
+		{B2173FBF-BEED-43B2-B910-FE156C45A026}.Debug|x86.Build.0 = Debug|Win32
+		{B2173FBF-BEED-43B2-B910-FE156C45A026}.Release|x64.ActiveCfg = Release|x64
+		{B2173FBF-BEED-43B2-B910-FE156C45A026}.Release|x64.Build.0 = Release|x64
+		{B2173FBF-BEED-43B2-B910-FE156C45A026}.Release|x86.ActiveCfg = Release|Win32
+		{B2173FBF-BEED-43B2-B910-FE156C45A026}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {75F4E6B9-C31A-4F98-8760-3F20E23DA40B}
+	EndGlobalSection
+EndGlobal
